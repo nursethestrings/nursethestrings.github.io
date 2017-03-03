@@ -29,17 +29,9 @@ Syntax highlighted code block
 4. Food
 
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` text will be added as the project evolves with my learning. For now my also maintain a site on Wordpress at:
 
-[Link](url) and ![Image](src)
+[www.fredwatters.com](www.fredwatters.com) and [Twitter @freddwatters](http://twitter.com/freddwatters)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nursethestrings/nursethestrings.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
