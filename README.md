@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Coastal Watters
 
-You can use the [editor on GitHub](https://github.com/nursethestrings/nursethestrings.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a personal learning project using the [editor on GitHub](https://github.com/nursethestrings/nursethestrings.github.io/edit/master/README.md) to maintain and content for my website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
 
 ### Markdown
 
@@ -11,15 +11,23 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Threads
+## General
+### Data Acquisition
+### Data Analysis
+### Data Casting
+### Visualization
+## Code
+## Blog
 
-- Bulleted
-- List
+- Projects
+- Random
 
-1. Numbered
-2. List
+1. Health
+2. Housing
+3. Water
+4. Food
+
 
 **Bold** and _Italic_ and `Code` text
 
