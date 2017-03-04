@@ -1,8 +1,8 @@
 ## Welcome to Coastal Watters
 
-This is a personal learning project using the [editor on GitHub](https://github.com/nursethestrings/nursethestrings.github.io/edit/master/README.md) to maintain and content for my website in Markdown files.
+This is a personal learning project using the [editor on GitHub](https://github.com/nursethestrings/nursethestrings.github.io/edit/master/README.md) to maintain and content files.
 
-Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages from the content in my Markdown files.
 
 ### Markdown
 ```markdown
