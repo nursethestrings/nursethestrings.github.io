@@ -9,22 +9,27 @@ Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jek
 
 Syntax highlighted code block
 
-Markdown is a lightweight and easy-to-use syntax  for styling your writing. It includes conventions  
+Markdown is a lightweight and easy-to-use syntax  
+for styling your writing. It includes conventions  
 for setting text styles, headings, links, images,...
 
 ```
-# Threads
-  ## General
-    ### Data Acquisition
-    ### Data Analysis
-    ### Data Casting
-    ### Visualization
+# Threads  
+
+## General
+  
+### Data Acquisition
+### Data Analysis
+### Data Casting
+### Visualization
+   
 ## Code
 
 ## Blog
 
 - Random
 - Projects
+
 1. Health
 2. Housing
 3. Water
