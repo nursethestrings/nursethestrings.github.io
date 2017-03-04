@@ -37,7 +37,7 @@ for setting text styles, headings, links, images,...
 
 
 **Bold** and _Italic_ and `Code` text will be added as the project evolves with my learning. For now, I also maintain:  
-[www.fredwatters.com](www.fredwatters.com)
+[www.fredwatters.com](https://www.fredwatters.com)
 and  
 Twitter [@freddwatters](http://twitter.com/freddwatters)
 
