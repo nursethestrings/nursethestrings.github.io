@@ -5,12 +5,12 @@ This is a personal learning project using the [editor on GitHub](https://github.
 Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
+
 Syntax highlighted code block
 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
 # Threads
 ## General
 ### Data Acquisition
@@ -28,8 +28,8 @@ Syntax highlighted code block
 3. Water
 4. Food
 
-```
-**Bold** and _Italic_ and `Code` text will be added as the project evolves with my learning. For now my also maintain a site on Wordpress at:  
+
+**Bold** and _Italic_ and `Code` text will be added as the project evolves with my learning. For now, I also maintain datafeeds on at:  
 [www.fredwatters.com](www.fredwatters.com)
 and  
 [Twitter @freddwatters](http://twitter.com/freddwatters)
