@@ -7,7 +7,8 @@ Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jek
 ## _Threads_  
   
 ### Data Acquisition (in process)  
-   [Profound Findings](http://journal.sjdm.org/15/15923a/jdm15923a.html)
+   [Profound Findings](http://journal.sjdm.org/15/15923a/jdm15923a.html)  
+   [Flood Data](http://coastalwatters.net/FlooddataMasterListrev.xlsx)  
 ### Data Analysis (past work)
    [Firearm Research](http://coastalwatters.net/FICAP/)  
    [Hypothermia in Trauma](http://coastalwatters.net/hypo/)  
