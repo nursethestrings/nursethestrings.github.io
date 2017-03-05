@@ -10,6 +10,7 @@ Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jek
    [Profound Findings](http://journal.sjdm.org/15/15923a/jdm15923a.html)
 ### Data Analysis (past work)
    [Firearm Research](http://coastalwatters.net/FICAP/)  
+   [Hypothermia in Trauma](http://coastalwatters.net/hypo/)  
    [CPOE](http://coastalwatters.net/CPOE/)  
 ### Data Casting (current rambles)  
    [Personal Blog](http://fredwatters.com)
