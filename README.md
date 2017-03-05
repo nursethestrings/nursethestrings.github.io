@@ -13,7 +13,8 @@ Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jek
    [Hypothermia in Trauma](http://coastalwatters.net/hypo/)  
    [CPOE](http://coastalwatters.net/CPOE/)  
 ### Data Casting (current rambles)  
-   [Personal Blog](http://fredwatters.com)
+   [Personal Blog](http://fredwatters.com)  
+   [Theatrics](http://www.reachdowneast.com/calendar/event/new-surry-theatre-presents-shirley-valentine-copy-3-copy-2-copy-copy-2-copy/2017-08-04/)  
 ### Visualization (recent meander)  
    [Tableau](https://public.tableau.com/profile/fred.watters#!/)
    
