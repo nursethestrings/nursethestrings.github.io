@@ -13,12 +13,16 @@ Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jek
    
 ## Code
 - Random
-- Projects
+  1. Music
+  2. Play
+  3. Games
 
-1. Health
-2. Housing
-3. Water
-4. Food
+- Projects
+  1. Health
+  2. Housing
+  3. Water
+  4. Food
+  5. Communication
 
 
 **Bold** and _Italic_ and `Code` text will be added as the project evolves with my learning. For now, I also maintain:  
