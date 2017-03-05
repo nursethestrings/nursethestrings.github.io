@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Welcome to Coastal Watters
 
-You can use the [editor on GitHub](https://github.com/nursethestrings/coastalwatters/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a personal learning project using the [editor on GitHub](https://github.com/nursethestrings/nursethestrings.github.io/edit/master/README.md) to maintain content files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages from the content in my Markdown files.
 
-### Markdown
+## Threads  
+  
+### [Data Acquisition (in process)](http://journal.sjdm.org/15/15923a/jdm15923a.html)
+### [Data Analysis (past work)](http://coastalwatters.net/CPOE/)
+### [Data Casting (current rambles)](http://fredwatters.com)
+### [Visualization (recent meander)](https://public.tableau.com/profile/fred.watters#!/)
+   
+## Code
+- Random
+  1. Music
+  2. Play
+  3. Games
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Projects
+  1. Health
+  2. Housing
+  3. Water
+  4. Food
+  5. Communication
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+**Bold** and _Italic_ and `Code` text will be added as the project evolves with my learning. For now, I also maintain:  
+[www.fredwatters.com](https://fredwatters.com)  
+and  
+[@freddwatters](http://twitter.com/freddwatters) on Twitter
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nursethestrings/coastalwatters/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
