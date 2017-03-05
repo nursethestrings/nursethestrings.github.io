@@ -5,8 +5,6 @@ This is a personal learning project using the [editor on GitHub](https://github.
 Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages from the content in my Markdown files.
 
 ## Threads  
-
-## General
   
 ### [Data Acquisition](https://github.com/nursethestrings/nursethestrings.github.io/FlooddataMasterListrev.xlsx)
 ### [Data Analysis](http://coastalwatters.net/CPOE/)
