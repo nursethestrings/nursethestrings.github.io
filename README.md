@@ -4,7 +4,7 @@ This is a personal learning project using the [editor on GitHub](https://github.
 
 Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages from the content in my Markdown files.
 
-## Threads  
+## _Threads_  
   
 ### Data Acquisition (in process)  
    [Profound Findings](http://journal.sjdm.org/15/15923a/jdm15923a.html)
@@ -16,7 +16,7 @@ Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jek
 ### Visualization (recent meander)  
    [Tableau](https://public.tableau.com/profile/fred.watters#!/)
    
-## Code
+## _Code_
 - Random
   1. Music
   2. Play
@@ -30,9 +30,7 @@ Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jek
   5. Communication
 
 
-**Bold** and _Italic_ and `Code` text will be added as the project evolves with my learning. For now, I also maintain:  
-[www.fredwatters.com](https://fredwatters.com)  
-and  
+For now, I also maintain:  
 [@freddwatters](http://twitter.com/freddwatters) on Twitter
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
