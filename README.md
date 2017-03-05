@@ -11,8 +11,10 @@ Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jek
 ### Data Analysis (past work)
    [Firearm Research](http://coastalwatters.net/FICAP/)  
    [CPOE](http://coastalwatters.net/CPOE/)  
-### [Data Casting (current rambles)](http://fredwatters.com)
-### [Visualization (recent meander)](https://public.tableau.com/profile/fred.watters#!/)
+### Data Casting (current rambles)  
+   [Personal Blog](http://fredwatters.com)
+### Visualization (recent meander)  
+   [Tableau](https://public.tableau.com/profile/fred.watters#!/)
    
 ## Code
 - Random
