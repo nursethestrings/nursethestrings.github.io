@@ -18,7 +18,7 @@ for setting text styles, headings, links, images,...
 
 ## General
   
-### [Data Acquisition](https://public.tableau.com/en-us/s/resources)
+### [Data Acquisition](http://github.com/nursethestrings/nursethestrings.github.io/FlooddataMasterListrev.xlsx )
 ### [Data Analysis](http://coastalwatters.net/CPOE/)
 ### [Data Casting](http://fredwatters.com)
 ### [Visualization](https://public.tableau.com/profile/fred.watters#!/)
