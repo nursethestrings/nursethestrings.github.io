@@ -6,7 +6,7 @@ Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jek
 
 ## Threads  
   
-### [Data Acquisition (in process)](https://github.com/nursethestrings/nursethestrings.github.io/FlooddataMasterListrev.xlsx)
+### [Data Acquisition (in process)](http://journal.sjdm.org/15/15923a/jdm15923a.html)
 ### [Data Analysis (past work)](http://coastalwatters.net/CPOE/)
 ### [Data Casting (current rambles)](http://fredwatters.com)
 ### [Visualization (recent meander)](https://public.tableau.com/profile/fred.watters#!/)
