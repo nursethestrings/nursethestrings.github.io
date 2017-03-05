@@ -18,15 +18,12 @@ for setting text styles, headings, links, images,...
 
 ## General
   
-### Data Acquisition
-### Data Analysis
-### Data Casting
-### Visualization
+### [Data Acquisition](https://public.tableau.com/en-us/s/resources)
+### [Data Analysis](http://coastalwatters.net/CPOE/)
+### [Data Casting](http://fredwatters.com)
+### [Visualization](https://public.tableau.com/profile/fred.watters#!/)
    
 ## Code
-
-## Blog
-
 - Random
 - Projects
 
