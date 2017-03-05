@@ -7,10 +7,10 @@ Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jek
 ## Threads  
   
 ### Data Acquisition (in process)  
-  [Profound Findings](http://journal.sjdm.org/15/15923a/jdm15923a.html)
+   [Profound Findings](http://journal.sjdm.org/15/15923a/jdm15923a.html)
 ### Data Analysis (past work)
-  [Firearm Research](http://coastalwatters.net/FICAP/)  
-  [CPOE](http://coastalwatters.net/CPOE/)  
+   [Firearm Research](http://coastalwatters.net/FICAP/)  
+   [CPOE](http://coastalwatters.net/CPOE/)  
 ### [Data Casting (current rambles)](http://fredwatters.com)
 ### [Visualization (recent meander)](https://public.tableau.com/profile/fred.watters#!/)
    
