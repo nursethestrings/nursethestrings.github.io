@@ -1,4 +1,4 @@
-# _Welcome to Coastal Watters_
+# Welcome to Coastal Watters
 
 This is a personal learning project using the [editor on GitHub](https://github.com/nursethestrings/nursethestrings.github.io/edit/master/README.md) to maintain content files.
 
