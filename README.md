@@ -4,7 +4,7 @@ This is a personal learning project using the [editor on GitHub](https://github.
 
 Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages from the content in my Markdown files.
 
-## _Threads_  
+## Threads  
   
 ### Data Acquisition (in process)  
    [Profound Findings](http://journal.sjdm.org/15/15923a/jdm15923a.html)  
@@ -21,7 +21,7 @@ Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jek
 ### Visualization (recent meander)  
    [Tableau](https://public.tableau.com/profile/fred.watters#!/)
    
-## _Code_
+## Code
 - Random
   1. Music
   2. Play
